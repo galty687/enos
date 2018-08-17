@@ -14,6 +14,9 @@ Welcome to EnOS Documentation Center
    
    1-enos/enos_overview.md
    1-enos/enos_gettingstarted.md
+   1-enos/enos_gettingstarted.md
+   1-enos/iam.md
+   1-enos/security.md
 
 .. toctree::
    :maxdepth: 2
@@ -21,12 +24,16 @@ Welcome to EnOS Documentation Center
 
    2-asset_management/asset_management_overview
    2-asset_management/managing_assets
+   2-asset_management/task.md
+   2-asset_management/formatting.md
 
 .. toctree::
    :maxdepth: 2
    :caption: Reference
 
 
-   3-reference/troubleshooting
+   3-reference/troubleshooting.md
+   3-reference/faq.md
+   3-reference/glossary.md
 
 
